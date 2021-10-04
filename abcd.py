@@ -14,6 +14,6 @@ for i in range(1,n+1):
 
       
 
-print ("The factorial of 23 is : ",end="") 
+print ("The factorial of 23 is : ",fact) 
 
-print (fact) 
+
